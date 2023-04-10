@@ -1,0 +1,11 @@
+4. git init
+
+5. git remote add origin https://github.com/bnikov/SI_2023_lab1_192070.git
+  
+6.git add README.md /  git commit -m "first commit" / git push -u origin master 
+ 
+7. git add SILab1.java / git commit -m "Add Java class"  
+
+8. git push -u origin master
+
+27. git add logs.txt / git add 192070.txt
